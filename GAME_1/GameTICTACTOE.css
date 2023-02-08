@@ -1,0 +1,158 @@
+body {
+  background-color: #1d1e1d;
+}
+#game {
+  width: 400px;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse\;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 48px;
+  border: 1px solid black;
+}
+#board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  background-color: #F8F8F8;
+  border-radius: 10px;
+}
+#cell-1 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-2 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-3 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-4 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-5 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-6 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-7 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-8 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+#cell-9 {
+  width: 133px;
+  height: 133px;
+  font-size: 80px;
+  font-weight: bold;
+  color: #F8F8F8;
+  text-align: center;
+  line-height: 133px;
+  background-color: #5B5E5B;
+  border-radius: 10px;
+}
+.cell.clicked {
+  background-color: #F8F8F8;
+  color: #5B5E5B;
+}
+#check-winner-button
+{
+  width: 200px;
+  height: 50px;
+  margin: 20px auto;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #228ad5;
+  color: #F8F8F8;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#reset-button {
+  width: 200px;
+  height: 50px;
+  margin: 20px auto;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #c60000;
+  color: #F8F8F8;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
